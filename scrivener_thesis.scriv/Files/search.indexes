@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="7">
+            <Title>Methods and Data</Title>
+            <Text>This is the methods and data section</Text>
+        </Document>
+        <Document ID="3">
+            <Title>Introduction</Title>
+            <Text>This is the introduction.</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Discussion</Title>
+            <Text>This is the discussion section</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Overview</Title>
+            <Text>This is the overview section</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Meta-Data</Title>
+            <Text>base header level: 1
+bibtex: /Users/altaf/bibliography/thesis
+bibliostyle: apalike2
+bibliography title: References
+title: My Thesis Title
+author: Altaf Ali
+latex footer: mmd-memoir-footer
+latex footer: thesis-footer
+latex input: mmd-article-header
+latex input: thesis-begin
+latex input: mmd-equation-mode
+latex input: mmd-article-begin-doc
+</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Conclusion</Title>
+            <Text>This is the conclusion section</Text>
+        </Document>
+        <Document ID="6">
+            <Title>Literature Review</Title>
+            <Text>This is the literature review section</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Main-Content</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
