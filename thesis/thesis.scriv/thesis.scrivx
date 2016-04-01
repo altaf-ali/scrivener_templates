@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="orge" Modified="2016-03-30 03:32:26 +0100" ModID="E81E6631-EA12-4B9F-AC8B-AE6B43D5ED56">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="orge" Modified="2016-04-01 12:22:40 +0100" ModID="1FE325FA-03CC-4BBE-8D95-9F8B13CB1E4B">
     <Binder>
         <BinderItem ID="0" UUID="5EDF5E9E-A4C0-463E-AC7E-175343DC2F56" Type="DraftFolder" Created="2016-03-29 19:38:11 +0100" Modified="2016-03-29 19:38:11 +0100">
             <Title>Draft</Title>
@@ -14,7 +14,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>274,0</TextSelection>
+                        <TextSelection>305,35</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="10" UUID="8FB39A97-819A-4729-A24B-11A93814A042" Type="Folder" Created="2016-03-29 23:26:35 +0100" Modified="2016-03-29 23:26:38 +0100">
@@ -74,7 +74,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>22,0</TextSelection>
+                                <TextSelection>30,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="5" UUID="2AAD52CA-0A7F-468E-9DCC-773E56460307" Type="Text" Created="2016-03-29 19:38:30 +0100" Modified="2016-03-29 19:39:51 +0100">
@@ -136,7 +136,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2016-03-29 19:38:11 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="4" Characters="32" Date="2016-03-30 03:31:54 +0100"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-04-01 12:22:27 +0100"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
